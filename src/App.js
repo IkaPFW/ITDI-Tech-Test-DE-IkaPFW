@@ -34,7 +34,7 @@ export default function App() {
   return (
     <div className="App">
       <div>
-        Number:{" "}
+        Number:
         <input
           onKeyDown={excludeComa}
           onChange={handleUpdate}
