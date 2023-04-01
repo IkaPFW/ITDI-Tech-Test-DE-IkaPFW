@@ -1,3 +1,6 @@
 # ITDI-Tech-Test-DE-IkaPFW
-Technical Test code for IT Digital Innovation
+IT Digital Innovation
+
+Technical Test code for PT. Smart Tbk Group Sinarmas
+
 Created with CodeSandbox
